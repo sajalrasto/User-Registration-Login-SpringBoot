@@ -1,4 +1,4 @@
-FROM openjdk:11
+FROM openjdk:8
 COPY target/User-Registration-Login-SpringBoot-0.0.1-SNAPSHOT.jar /
 WORKDIR /
 CMD ["java", "-jar", "User-Registration-Login-SpringBoot-0.0.1-SNAPSHOT.jar"]
