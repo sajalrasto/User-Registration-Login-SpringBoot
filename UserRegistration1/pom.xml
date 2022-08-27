@@ -11,6 +11,7 @@
 	<groupId>io.aadeesh</groupId>
 	<artifactId>UserRegistration1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	 <packaging>war</packaging>
 	<name>UserRegistration1</name>
 	<description>Demo project for Spring Boot</description>
 
